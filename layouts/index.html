@@ -4,9 +4,9 @@
 {{ with .GetPage "banner" }}
 <style>{{.Params.custom_css | safeCSS}}</style>
 <section class="header {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="home">
-  <div class="logo">
-    <img class="img-fluid" src="{{ site.Params.logo_light | relURL }}" alt="{{ site.Title }}">
-  </div>
+  <!-- <div class="logo">
+     <img class="img-fluid" src="{{ site.Params.logo_light | relURL }}" alt="{{ site.Title }}">
+   </div> -->
   <div class="slider-prev-button slider-button">
     <i class="fa fa-angle-left"></i>
   </div>
@@ -262,7 +262,10 @@
               <div class="service-img">
                 <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
               </div>
-              <div class="service-label">{{ .name | markdownify }}</div>
+              <div class="service-label">{{ .name | markdownify }}
+               
+              </div>
+  
             </div>
             {{ end }}
           </div>
@@ -272,6 +275,7 @@
   </div>
 </section>
 {{ end }}
+
 <!-- End Services -->
 
 <!-- call to action -->
@@ -365,7 +369,7 @@
               <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name }}">
               <h2>{{ .name }}</h2>
               <span>{{ .designation | markdownify }}</span>
-              <p><i class="fa fa-quote-left"></i> {{ .content | markdownify }} <i class="fa fa-quote-right"></i></p>
+              <p> {{ .content | markdownify }} </p>
             </div>
           </div>
           {{ end }}

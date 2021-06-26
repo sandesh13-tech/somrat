@@ -1,34 +1,25 @@
 ---
-title : "SERVICES"
+title : "PROJECTS"
 service_list:
+
 # service item loop
-- name : "Web Development"
-  image : "images/icons/web-development.png"
+- name : "Encrypted Keylogger"
+  image : "images/icons/keys.png"
+  url : "https://github.com/chokshiroshan/Keylogger"
   
 # service item loop
-- name : "Graphic Design"
-  image : "images/icons/graphic-design.png"
-  
+- name : "BrainWars"
+  image : "images/icons/brains.png"
+  url : "https://github.com/chokshiroshan/Keylogger"
 # service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
-  
-# service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
-  
-# service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
-  
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
+- name : "Chat Based File Transfer"
+  image : "images/icons/chatting.png"
+  url : "https://github.com/chokshiroshan/Keylogger"
 
 
 
 # custom style
-custom_class: "" 
+custom_class: "abc" 
 custom_attributes: "" 
 custom_css: ""
 ---
