@@ -1,10 +1,7 @@
 ---
-title : "NEED A SERVICE?"
+title : "We as an engineer can do anything !"
 bg_image : "images/backgrounds/need-service.jpg"
-button:
-  enable : true
-  label : "SAY HELLO!"
-  link : "#contact"
+
 
 
 # custom style

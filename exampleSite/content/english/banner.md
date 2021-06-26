@@ -1,20 +1,20 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Sandesh Jain"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+first_name : "JAIN"
+last_name : "SANDESH"
+bg_image : "images/backgrounds/me.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Data Scientist"
+- "Code Geek"
+- "Security Analyst"
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
+- "images/slider/slider-4.jpg"
 - "images/slider/slider-2.jpg"
-- "images/slider/slider-3.jpg"
+- "images/slider/slider-5.jfif"
 
 # button
 button:
