@@ -1,7 +1,7 @@
 ---
 title : "SAY HELLO!"
 bg_image: "images/backgrounds/contact-us-bg.jpg"
-form_action: "https://formspree.io/f/xrgrleng"
+form_action: "https://formspree.io/f/mnqlzppq"
 name: "Name"
 email: "Email"
 message: "Message"

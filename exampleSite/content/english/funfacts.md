@@ -5,7 +5,7 @@ funfacts:
 # funfacts item loop
 - name : "HARDWORKING"
   image : "images/icons/hard.png"
-  count : "97"
+  count : "98"
 
 # funfacts item loop
 - name : "PUNCTUALITY"
@@ -15,7 +15,7 @@ funfacts:
 # funfacts item loop
 - name : "CONFIDENCE"
   image : "images/icons/CONFI.png"
-  count : "100"
+  count : "98"
   
 # funfacts item loop
 - name : "AMBITIOUS"
