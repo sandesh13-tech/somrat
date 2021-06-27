@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "LETS CONNECT"
+  label : "LET'S CONNECT"
   link : "#contact"
 
 

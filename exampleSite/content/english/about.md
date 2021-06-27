@@ -22,7 +22,7 @@ experience:
     - name : "Research Intern"
       company : "Dr. Kapil Sharma (HOD IT), DTU Delhi"
       duration : "( Dec'20-Feb'20 )"
-      content : "Enhance the security of web servers using tools in Kali Linux. It includes scanning the network and finding vulnerabilities in the server to prevent unauthorized access while being anonymous.
+      content : "Worked on enhancing the security of web servers using tools in Kali Linux. Scanned the networks and found vulnerabilities in the server to prevent unauthorized access while being anonymous.
       Tools used: Nmap, netdiscover, macchanger, VPN, Metasploit "
 
 
