@@ -3,7 +3,7 @@ title : "I'm Sandesh Jain"
 # full screen navigation
 first_name : "JAIN"
 last_name : "SANDESH"
-bg_image : "images/backgrounds/me.jpg"
+bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
 - "Data Scientist"
