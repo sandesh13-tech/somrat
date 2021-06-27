@@ -260,7 +260,7 @@
             {{ range .Params.service_list }}
             <div class="col-lg-4 col-sm-4 col-12 services-icon">
               <div class="service-img">
-                <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name | markdownify }}">
+                <a href="{{.lnk | absURL}}"><img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name | markdownify }}"></a> 
               </div>
               <div class="service-label">{{ .name | markdownify }}
                
@@ -280,7 +280,7 @@
 
 <!-- call to action -->
 {{ with .GetPage "call-to-action" }}
-<style>{{.Params.custom_css | safeCSS}}</style>
+<style>{{.Params.custom_css | safeCSS }}</style>
 <section id="cta" class="need-service overlay section-sm wow fadeInUp {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} data-wow-duration="1.5s" style="background-image: url('{{ .Params.bg_image | absURL }}');">
   <div class="container position-relative z-index-9">
     <h1>{{ .Title | markdownify }}</h1>
@@ -392,7 +392,7 @@
       <h1>{{ . | markdownify }}</h1>
     </div>
     {{ end }}
-    <div class="fun-facts wow fadeInUp" data-wow-duration="1.5s">
+    <div class="fun-facts wow fadeInUp" data-wow-duration="1.5s" aria-setsize="">
       {{ range .Params.funfacts }}
       <div class="fun-fact-holder">
         <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name }}">
