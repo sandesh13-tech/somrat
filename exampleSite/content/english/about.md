@@ -50,8 +50,8 @@ skill:
       percentage : "80%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "Competitive Programming"
+      percentage : "80%"
 
 
 # custom style
