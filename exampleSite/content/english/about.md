@@ -51,7 +51,7 @@ skill:
       
     # skill item loop
     - name : "Competitive Programming"
-      percentage : "80%"
+      percentage : "82%"
 
 
 # custom style
