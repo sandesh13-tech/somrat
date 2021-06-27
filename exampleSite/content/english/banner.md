@@ -3,7 +3,7 @@ title : "I'm Sandesh Jain"
 # full screen navigation
 first_name : "JAIN"
 last_name : "SANDESH"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+bg_image : "images/backgrounds/bg.jpg"
 # animated text loop
 occupations:
 - "Data Scientist"
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "LETS CONNECT"
+  label : "LET'S CONNECT"
   link : "#contact"
 
 
