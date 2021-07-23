@@ -14,9 +14,9 @@ service_list:
   lnk : "https://github.com/anmol22004/Generation-of-Malware-and-its-detection-using-Machine-Learning"
 
 # service item loop
-- name : "Sorting Visualizer"
-  image : "images/icons/sorting.png"
-  lnk : "https://github.com/anmol22004/Sorting-Algorithms-Visualizer"
+- name : "KeyLogger"
+  image : "images/icons/keylog.jpg"
+  lnk : "https://github.com/anmol22004/Key-Logger"
 
 
 

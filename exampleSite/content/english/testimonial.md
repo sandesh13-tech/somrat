@@ -5,10 +5,10 @@ testimonial_slider:
 - name : "DELHI TECHNOLOGICAL UNIVERSITY"
   image : "images/clients/dtu.png"
   designation : "2018-2022"
-  content : "I am a final year student pursuing a Bachelor's in Computer Engineering with 8.41 Aggregate Cgpa ."
+  content : "I am a final year student pursuing a Bachelor's in Computer Engineering with 8.56 Aggregate Cgpa ."
             
 # slider item loop
-- name : "LAL BAHADUR SHASHTRI SCHOOL"
+- name : "LAL BAHADUR SHASTRI SCHOOL"
   image : "images/clients/lbs1.png"
   designation : "2016-2018"
   content : "Completed my Higher Secondary Education in Non-Medical from CBSE board with 92.20% ."
