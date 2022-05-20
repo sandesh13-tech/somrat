@@ -13,10 +13,20 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Quant Developer"
+    - name : "Software Developer Intern"
+      company : "Urban Company"
+      duration : "( Jan'22-Apr'22 )"
+      content : "• Migrated service from monolithic architecture to microservices.
+• Implemented audit logs on a service which captures the changed value, user id and timestamp.
+• Implemented alert system on core business metrics using SQL"
+
+    # experience item loop
+    - name : "Quant Developer Intern"
       company : "AlgoJi"
       duration : "( Feb'21-June'21 )"
-      content : "Developed and Deployed 25+ Algo Trading strategies on Excel/Python with ApiBridge. Understanding the needs of Algo trading clients, analyse it and optimize algo flow and behaviour to improve performance and client experience. Developed different types of trading strategies i.e., Short Straddle/Strangle,Camarilla/Fibonacci/Gann Pivot Points, different Price Action techniques."
+      content : "• Developed and Deployed 25+ Algo Trading strategies on Excel/Python with ApiBridge. 
+• Understanding the needs of Algo trading clients, analyse it and optimize algo flow and behaviour to improve performance and client experience.
+• Developed different types of trading strategies i.e., Short Straddle/Strangle,Camarilla/Fibonacci/Gann Pivot Points, different Price Action techniques."
 
 ############################### Skill #################################
 skill:
@@ -42,4 +52,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Hello everyone, and thank you for visiting my website. My name is Anmol Agarwal. I am Computer Science undergrad at DTU. Currently living in Lakhimpur, a city in Uttar-Pradesh and everything is remote as of now. I love coding and am passionate about Algorithmic Trading, Machine Learning and want to explore new fields. My hobbies include Playing cricket, reading non-fiction books and watching movies & TV-series.
+Hello everyone, and thank you for visiting my website. My name is Anmol Agarwal and had completed my undergrad in Computer Science from DTU. Currently living in Lakhimpur, a city in Uttar-Pradesh and everything is remote as of now. I love coding and am passionate about Algorithmic Trading, Machine Learning and want to explore new fields. My hobbies include Playing cricket, reading non-fiction books and watching movies & TV-series.
