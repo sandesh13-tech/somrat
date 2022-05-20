@@ -16,17 +16,17 @@ experience:
     - name : "Software Developer Intern"
       company : "Urban Company"
       duration : "( Jan'22-Apr'22 )"
-      content : "• Migrated service from monolithic architecture to microservices.
-• Implemented audit logs on a service which captures the changed value, user id and timestamp.
-• Implemented alert system on core business metrics using SQL"
+      content : "Migrated service from monolithic architecture to microservices.
+ Implemented audit logs on a service which captures the changed value, user id and timestamp.
+ Implemented alert system on core business metrics using SQL"
 
     # experience item loop
     - name : "Quant Developer Intern"
       company : "AlgoJi"
       duration : "( Feb'21-June'21 )"
-      content : "• Developed and Deployed 25+ Algo Trading strategies on Excel/Python with ApiBridge. 
-• Understanding the needs of Algo trading clients, analyse it and optimize algo flow and behaviour to improve performance and client experience.
-• Developed different types of trading strategies i.e., Short Straddle/Strangle,Camarilla/Fibonacci/Gann Pivot Points, different Price Action techniques."
+      content : "Developed and Deployed 25+ Algo Trading strategies on Excel/Python with ApiBridge. 
+ Understanding the needs of Algo trading clients, analyse it and optimize algo flow and behaviour to improve performance and client experience.
+ Developed different types of trading strategies i.e., Short Straddle/Strangle,Camarilla/Fibonacci/Gann Pivot Points, different Price Action techniques."
 
 ############################### Skill #################################
 skill:
