@@ -15,7 +15,7 @@ funfacts:
 # funfacts item loop
 - name : "CONFIDENCE"
   image : "images/icons/CONFI.png"
-  count : "98"
+  count : "100"
   
 # funfacts item loop
 - name : "AMBITIOUS"
