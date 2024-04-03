@@ -3,20 +3,20 @@ title : "PROJECTS"
 service_list:
 
 # service item loop
-- name : "Encrypted Keylogger"
-  image : "images/icons/keys.png"
-  lnk : "https://github.com/sandesh13-tech/Encrypted-Keylogger"
+- name : "Pairs Trading"
+  image : "images/icons/trading.png"
+  lnk : "https://github.com/anmol22004/Pairs-Trading-with-Machine-Learning"
  
   
 # service item loop
-- name : "BrainWars"
-  image : "images/icons/brains.png"
-  lnk : "https://github.com/sandesh13-tech/brain-wars"
+- name : "Malware Analysis"
+  image : "images/icons/malware.png"
+  lnk : "https://github.com/anmol22004/Generation-of-Malware-and-its-detection-using-Machine-Learning"
 
 # service item loop
-- name : "Chat Based File Transfer"
-  image : "images/icons/chatting.png"
-  lnk : "https://github.com/sandesh13-tech/-Chat-Based-File-Transfer-System-with-emphasis-on-Security-using-RSA-"
+- name : "Encrypted Keylogger"
+  image : "images/icons/keys.png"
+  lnk : "https://github.com/anmol22004/Key-Logger"
 
 
 
